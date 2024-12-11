@@ -18,7 +18,7 @@
 4. **Modifica delle Impostazioni degli Input**
    - Nella schermata di configurazione, sostituire l'host predefinito con un comando che includa più host, ad esempio:  
      ```plaintext
-     source="WinEventLog:*" host="DESKTOP-9K104BT" OR host="WIN-4J600U41GIE"
+     source="WinEventLog:*" host="DESKTOP-7K100kd" OR host="WIN-2022"
      ```
    - Questo permette di includere dati da entrambi gli host configurati.
 
